@@ -1,0 +1,36 @@
+state_code,state_name,income_group,cms_cost_per_utilizer,median_income,affordability_index_pct,rank
+CA,California,65plus,14375.0,3713165.0,0.39,1
+FL,Florida,65plus,12640.0,3020141.0,0.42,2
+TX,Texas,65plus,13251.0,2614303.0,0.51,3
+NY,New York,65plus,14429.0,2319319.0,0.62,4
+PA,Pennsylvania,65plus,11353.0,1670372.0,0.68,5
+CA,California,Family4,14375.0,1852673.0,0.78,1
+TX,Texas,Family4,13251.0,1507108.0,0.88,2
+FL,Florida,Family4,12640.0,950122.0,1.33,3
+NY,New York,Family4,14429.0,860241.0,1.68,4
+PA,Pennsylvania,Family4,11353.0,565448.0,2.01,5
+TX,Texas,Female_no_spouse_kids,13251.0,793333.0,1.67,1
+CA,California,Female_no_spouse_kids,14375.0,785199.0,1.83,2
+FL,Florida,Female_no_spouse_kids,12640.0,501746.0,2.52,3
+NY,New York,Female_no_spouse_kids,14429.0,449490.0,3.21,4
+OH,Ohio,Female_no_spouse_kids,11048.0,296521.0,3.73,5
+CA,California,Male_no_spouse_kids,14375.0,345015.0,4.17,1
+TX,Texas,Male_no_spouse_kids,13251.0,268294.0,4.94,2
+FL,Florida,Male_no_spouse_kids,12640.0,183638.0,6.88,3
+OH,Ohio,Male_no_spouse_kids,11048.0,113750.0,9.71,4
+NY,New York,Male_no_spouse_kids,14429.0,147361.0,9.79,5
+CA,California,Married_with_kids,14375.0,2597957.0,0.55,1
+TX,Texas,Married_with_kids,13251.0,2353236.0,0.56,2
+FL,Florida,Married_with_kids,12640.0,1371191.0,0.92,3
+NY,New York,Married_with_kids,14429.0,1204301.0,1.2,4
+PA,Pennsylvania,Married_with_kids,11353.0,859848.0,1.32,5
+CA,California,Nonfamily_Female_alone,14375.0,1868777.0,0.77,1
+TX,Texas,Nonfamily_Female_alone,13251.0,1588811.0,0.83,2
+FL,Florida,Nonfamily_Female_alone,12640.0,1442811.0,0.88,3
+NY,New York,Nonfamily_Female_alone,14429.0,1389721.0,1.04,4
+PA,Pennsylvania,Nonfamily_Female_alone,11353.0,917493.0,1.24,5
+TX,Texas,Nonfamily_Male_alone,13251.0,1425163.0,0.93,1
+CA,California,Nonfamily_Male_alone,14375.0,1529825.0,0.94,2
+FL,Florida,Nonfamily_Male_alone,12640.0,1119662.0,1.13,3
+NY,New York,Nonfamily_Male_alone,14429.0,1075132.0,1.34,4
+PA,Pennsylvania,Nonfamily_Male_alone,11353.0,751134.0,1.51,5

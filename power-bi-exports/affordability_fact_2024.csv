@@ -1,0 +1,365 @@
+state_code,state_name,year,income_group,beneficiaries,cms_cost_per_utilizer,median_income,affordability_index_pct
+AK,Alaska,2024,65plus,105831,11594.0,66642.0,17.4
+AK,Alaska,2024,Family4,105831,11594.0,30259.0,38.32
+AK,Alaska,2024,Female_no_spouse_kids,105831,11594.0,15148.0,76.54
+AK,Alaska,2024,Male_no_spouse_kids,105831,11594.0,7999.0,144.94
+AK,Alaska,2024,Married_with_kids,105831,11594.0,53958.0,21.49
+AK,Alaska,2024,Nonfamily_Female_alone,105831,11594.0,36424.0,31.83
+AK,Alaska,2024,Nonfamily_Male_alone,105831,11594.0,40668.0,28.51
+AL,Alabama,2024,65plus,528983,11029.0,611532.0,1.8
+AL,Alabama,2024,Family4,528983,11029.0,219517.0,5.02
+AL,Alabama,2024,Female_no_spouse_kids,528983,11029.0,143812.0,7.67
+AL,Alabama,2024,Male_no_spouse_kids,528983,11029.0,36997.0,29.81
+AL,Alabama,2024,Married_with_kids,528983,11029.0,321774.0,3.43
+AL,Alabama,2024,Nonfamily_Female_alone,528983,11029.0,354379.0,3.11
+AL,Alabama,2024,Nonfamily_Male_alone,528983,11029.0,268138.0,4.11
+AR,Arkansas,2024,65plus,430724,10434.0,360301.0,2.9
+AR,Arkansas,2024,Family4,430724,10434.0,131121.0,7.96
+AR,Arkansas,2024,Female_no_spouse_kids,430724,10434.0,80703.0,12.93
+AR,Arkansas,2024,Male_no_spouse_kids,430724,10434.0,28303.0,36.87
+AR,Arkansas,2024,Married_with_kids,430724,10434.0,216016.0,4.83
+AR,Arkansas,2024,Nonfamily_Female_alone,430724,10434.0,195319.0,5.34
+AR,Arkansas,2024,Nonfamily_Male_alone,430724,10434.0,174736.0,5.97
+AZ,Arizona,2024,65plus,767513,10747.0,917646.0,1.17
+AZ,Arizona,2024,Family4,767513,10747.0,313943.0,3.42
+AZ,Arizona,2024,Female_no_spouse_kids,767513,10747.0,157485.0,6.82
+AZ,Arizona,2024,Male_no_spouse_kids,767513,10747.0,70529.0,15.24
+AZ,Arizona,2024,Married_with_kids,767513,10747.0,473005.0,2.27
+AZ,Arizona,2024,Nonfamily_Female_alone,767513,10747.0,445348.0,2.41
+AZ,Arizona,2024,Nonfamily_Male_alone,767513,10747.0,375095.0,2.87
+CA,California,2024,65plus,3436742,14375.0,3713165.0,0.39
+CA,California,2024,Family4,3436742,14375.0,1852673.0,0.78
+CA,California,2024,Female_no_spouse_kids,3436742,14375.0,785199.0,1.83
+CA,California,2024,Male_no_spouse_kids,3436742,14375.0,345015.0,4.17
+CA,California,2024,Married_with_kids,3436742,14375.0,2597957.0,0.55
+CA,California,2024,Nonfamily_Female_alone,3436742,14375.0,1868777.0,0.77
+CA,California,2024,Nonfamily_Male_alone,3436742,14375.0,1529825.0,0.94
+CO,Colorado,2024,65plus,518796,10495.0,611451.0,1.72
+CO,Colorado,2024,Family4,518796,10495.0,272603.0,3.85
+CO,Colorado,2024,Female_no_spouse_kids,518796,10495.0,109140.0,9.62
+CO,Colorado,2024,Male_no_spouse_kids,518796,10495.0,48397.0,21.69
+CO,Colorado,2024,Married_with_kids,518796,10495.0,448506.0,2.34
+CO,Colorado,2024,Nonfamily_Female_alone,518796,10495.0,355080.0,2.96
+CO,Colorado,2024,Nonfamily_Male_alone,518796,10495.0,354150.0,2.96
+CT,Connecticut,2024,65plus,363399,13587.0,446396.0,3.04
+CT,Connecticut,2024,Family4,363399,13587.0,174543.0,7.78
+CT,Connecticut,2024,Female_no_spouse_kids,363399,13587.0,88950.0,15.27
+CT,Connecticut,2024,Male_no_spouse_kids,363399,13587.0,31248.0,43.48
+CT,Connecticut,2024,Married_with_kids,363399,13587.0,244223.0,5.56
+CT,Connecticut,2024,Nonfamily_Female_alone,363399,13587.0,249593.0,5.44
+CT,Connecticut,2024,Nonfamily_Male_alone,363399,13587.0,185400.0,7.33
+DC,District of Columbia,2024,65plus,70224,13905.0,61812.0,22.5
+DC,District of Columbia,2024,Family4,70224,13905.0,21766.0,63.88
+DC,District of Columbia,2024,Female_no_spouse_kids,70224,13905.0,23468.0,59.25
+DC,District of Columbia,2024,Male_no_spouse_kids,70224,13905.0,4051.0,343.25
+DC,District of Columbia,2024,Married_with_kids,70224,13905.0,31672.0,43.9
+DC,District of Columbia,2024,Nonfamily_Female_alone,70224,13905.0,89713.0,15.5
+DC,District of Columbia,2024,Nonfamily_Male_alone,70224,13905.0,65212.0,21.32
+DE,Delaware,2024,65plus,171134,11994.0,141175.0,8.5
+DE,Delaware,2024,Family4,171134,11994.0,45452.0,26.39
+DE,Delaware,2024,Female_no_spouse_kids,171134,11994.0,26708.0,44.91
+DE,Delaware,2024,Male_no_spouse_kids,171134,11994.0,8328.0,144.02
+DE,Delaware,2024,Married_with_kids,171134,11994.0,62949.0,19.05
+DE,Delaware,2024,Nonfamily_Female_alone,171134,11994.0,63275.0,18.96
+DE,Delaware,2024,Nonfamily_Male_alone,171134,11994.0,49706.0,24.13
+FL,Florida,2024,65plus,2359900,12640.0,3020141.0,0.42
+FL,Florida,2024,Family4,2359900,12640.0,950122.0,1.33
+FL,Florida,2024,Female_no_spouse_kids,2359900,12640.0,501746.0,2.52
+FL,Florida,2024,Male_no_spouse_kids,2359900,12640.0,183638.0,6.88
+FL,Florida,2024,Married_with_kids,2359900,12640.0,1371191.0,0.92
+FL,Florida,2024,Nonfamily_Female_alone,2359900,12640.0,1442811.0,0.88
+FL,Florida,2024,Nonfamily_Male_alone,2359900,12640.0,1119662.0,1.13
+GA,Georgia,2024,65plus,953980,11318.0,1067833.0,1.06
+GA,Georgia,2024,Family4,953980,11318.0,499120.0,2.27
+GA,Georgia,2024,Female_no_spouse_kids,953980,11318.0,297357.0,3.81
+GA,Georgia,2024,Male_no_spouse_kids,953980,11318.0,85189.0,13.29
+GA,Georgia,2024,Married_with_kids,953980,11318.0,751143.0,1.51
+GA,Georgia,2024,Nonfamily_Female_alone,953980,11318.0,659639.0,1.72
+GA,Georgia,2024,Nonfamily_Male_alone,953980,11318.0,510805.0,2.22
+HI,Hawaii,2024,65plus,145637,9372.0,174395.0,5.37
+HI,Hawaii,2024,Family4,145637,9372.0,57850.0,16.2
+HI,Hawaii,2024,Female_no_spouse_kids,145637,9372.0,27197.0,34.46
+HI,Hawaii,2024,Male_no_spouse_kids,145637,9372.0,11110.0,84.36
+HI,Hawaii,2024,Married_with_kids,145637,9372.0,81570.0,11.49
+HI,Hawaii,2024,Nonfamily_Female_alone,145637,9372.0,64614.0,14.5
+HI,Hawaii,2024,Nonfamily_Male_alone,145637,9372.0,63333.0,14.8
+IA,Iowa,2024,65plus,465570,10048.0,380845.0,2.64
+IA,Iowa,2024,Family4,465570,10048.0,138126.0,7.27
+IA,Iowa,2024,Female_no_spouse_kids,465570,10048.0,80483.0,12.48
+IA,Iowa,2024,Male_no_spouse_kids,465570,10048.0,34218.0,29.36
+IA,Iowa,2024,Married_with_kids,465570,10048.0,238232.0,4.22
+IA,Iowa,2024,Nonfamily_Female_alone,465570,10048.0,220072.0,4.57
+IA,Iowa,2024,Nonfamily_Male_alone,465570,10048.0,192693.0,5.21
+ID,Idaho,2024,65plus,215741,9576.0,211921.0,4.52
+ID,Idaho,2024,Family4,215741,9576.0,83000.0,11.54
+ID,Idaho,2024,Female_no_spouse_kids,215741,9576.0,38503.0,24.87
+ID,Idaho,2024,Male_no_spouse_kids,215741,9576.0,18088.0,52.94
+ID,Idaho,2024,Married_with_kids,215741,9576.0,162570.0,5.89
+ID,Idaho,2024,Nonfamily_Female_alone,215741,9576.0,96028.0,9.97
+ID,Idaho,2024,Nonfamily_Male_alone,215741,9576.0,84231.0,11.37
+IL,Illinois,2024,65plus,1507029,12189.0,1434880.0,0.85
+IL,Illinois,2024,Family4,1507029,12189.0,577500.0,2.11
+IL,Illinois,2024,Female_no_spouse_kids,1507029,12189.0,286359.0,4.26
+IL,Illinois,2024,Male_no_spouse_kids,1507029,12189.0,109472.0,11.13
+IL,Illinois,2024,Married_with_kids,1507029,12189.0,851586.0,1.43
+IL,Illinois,2024,Nonfamily_Female_alone,1507029,12189.0,891028.0,1.37
+IL,Illinois,2024,Nonfamily_Male_alone,1507029,12189.0,727196.0,1.68
+IN,Indiana,2024,65plus,775334,11188.0,778955.0,1.44
+IN,Indiana,2024,Family4,775334,11188.0,300207.0,3.73
+IN,Indiana,2024,Female_no_spouse_kids,775334,11188.0,175401.0,6.38
+IN,Indiana,2024,Male_no_spouse_kids,775334,11188.0,73282.0,15.27
+IN,Indiana,2024,Married_with_kids,775334,11188.0,476337.0,2.35
+IN,Indiana,2024,Nonfamily_Female_alone,775334,11188.0,442463.0,2.53
+IN,Indiana,2024,Nonfamily_Male_alone,775334,11188.0,385999.0,2.9
+KS,Kansas,2024,65plus,414903,11195.0,339508.0,3.3
+KS,Kansas,2024,Family4,414903,11195.0,129984.0,8.61
+KS,Kansas,2024,Female_no_spouse_kids,414903,11195.0,61884.0,18.09
+KS,Kansas,2024,Male_no_spouse_kids,414903,11195.0,26323.0,42.53
+KS,Kansas,2024,Married_with_kids,414903,11195.0,230736.0,4.85
+KS,Kansas,2024,Nonfamily_Female_alone,414903,11195.0,184059.0,6.08
+KS,Kansas,2024,Nonfamily_Male_alone,414903,11195.0,177418.0,6.31
+KY,Kentucky,2024,65plus,536961,10255.0,528114.0,1.94
+KY,Kentucky,2024,Family4,536961,10255.0,192882.0,5.32
+KY,Kentucky,2024,Female_no_spouse_kids,536961,10255.0,111743.0,9.18
+KY,Kentucky,2024,Male_no_spouse_kids,536961,10255.0,47779.0,21.46
+KY,Kentucky,2024,Married_with_kids,536961,10255.0,319058.0,3.21
+KY,Kentucky,2024,Nonfamily_Female_alone,536961,10255.0,298833.0,3.43
+KY,Kentucky,2024,Nonfamily_Male_alone,536961,10255.0,255784.0,4.01
+LA,Louisiana,2024,65plus,473575,11995.0,529134.0,2.27
+LA,Louisiana,2024,Family4,473575,11995.0,194429.0,6.17
+LA,Louisiana,2024,Female_no_spouse_kids,473575,11995.0,149620.0,8.02
+LA,Louisiana,2024,Male_no_spouse_kids,473575,11995.0,46952.0,25.55
+LA,Louisiana,2024,Married_with_kids,473575,11995.0,275386.0,4.36
+LA,Louisiana,2024,Nonfamily_Female_alone,473575,11995.0,324161.0,3.7
+LA,Louisiana,2024,Nonfamily_Male_alone,473575,11995.0,263213.0,4.56
+MA,Massachusetts,2024,65plus,973092,12871.0,823493.0,1.56
+MA,Massachusetts,2024,Family4,973092,12871.0,343232.0,3.75
+MA,Massachusetts,2024,Female_no_spouse_kids,973092,12871.0,156265.0,8.24
+MA,Massachusetts,2024,Male_no_spouse_kids,973092,12871.0,57576.0,22.35
+MA,Massachusetts,2024,Married_with_kids,973092,12871.0,473236.0,2.72
+MA,Massachusetts,2024,Nonfamily_Female_alone,973092,12871.0,470191.0,2.74
+MA,Massachusetts,2024,Nonfamily_Male_alone,973092,12871.0,350003.0,3.68
+MD,Maryland,2024,65plus,898929,13722.0,677874.0,2.02
+MD,Maryland,2024,Family4,898929,13722.0,283158.0,4.85
+MD,Maryland,2024,Female_no_spouse_kids,898929,13722.0,142819.0,9.61
+MD,Maryland,2024,Male_no_spouse_kids,898929,13722.0,52160.0,26.31
+MD,Maryland,2024,Married_with_kids,898929,13722.0,428454.0,3.2
+MD,Maryland,2024,Nonfamily_Female_alone,898929,13722.0,422251.0,3.25
+MD,Maryland,2024,Nonfamily_Male_alone,898929,13722.0,287733.0,4.77
+ME,Maine,2024,65plus,187420,10016.0,208234.0,4.81
+ME,Maine,2024,Family4,187420,10016.0,54271.0,18.46
+ME,Maine,2024,Female_no_spouse_kids,187420,10016.0,24948.0,40.15
+ME,Maine,2024,Male_no_spouse_kids,187420,10016.0,12386.0,80.87
+ME,Maine,2024,Married_with_kids,187420,10016.0,86733.0,11.55
+ME,Maine,2024,Nonfamily_Female_alone,187420,10016.0,105777.0,9.47
+ME,Maine,2024,Nonfamily_Male_alone,187420,10016.0,82776.0,12.1
+MI,Michigan,2024,65plus,1024125,11315.0,1269464.0,0.89
+MI,Michigan,2024,Family4,1024125,11315.0,429095.0,2.64
+MI,Michigan,2024,Female_no_spouse_kids,1024125,11315.0,227305.0,4.98
+MI,Michigan,2024,Male_no_spouse_kids,1024125,11315.0,92991.0,12.17
+MI,Michigan,2024,Married_with_kids,1024125,11315.0,656130.0,1.72
+MI,Michigan,2024,Nonfamily_Female_alone,1024125,11315.0,683393.0,1.66
+MI,Michigan,2024,Nonfamily_Male_alone,1024125,11315.0,602257.0,1.88
+MN,Minnesota,2024,65plus,509904,11005.0,657239.0,1.67
+MN,Minnesota,2024,Family4,509904,11005.0,245931.0,4.47
+MN,Minnesota,2024,Female_no_spouse_kids,509904,11005.0,115814.0,9.5
+MN,Minnesota,2024,Male_no_spouse_kids,509904,11005.0,56599.0,19.44
+MN,Minnesota,2024,Married_with_kids,509904,11005.0,435173.0,2.53
+MN,Minnesota,2024,Nonfamily_Female_alone,509904,11005.0,385440.0,2.86
+MN,Minnesota,2024,Nonfamily_Male_alone,509904,11005.0,334604.0,3.29
+MO,Missouri,2024,65plus,707230,11201.0,744490.0,1.5
+MO,Missouri,2024,Family4,707230,11201.0,273506.0,4.1
+MO,Missouri,2024,Female_no_spouse_kids,707230,11201.0,141179.0,7.93
+MO,Missouri,2024,Male_no_spouse_kids,707230,11201.0,64586.0,17.34
+MO,Missouri,2024,Married_with_kids,707230,11201.0,435776.0,2.57
+MO,Missouri,2024,Nonfamily_Female_alone,707230,11201.0,442127.0,2.53
+MO,Missouri,2024,Nonfamily_Male_alone,707230,11201.0,353253.0,3.17
+MS,Mississippi,2024,65plus,431483,11706.0,344818.0,3.39
+MS,Mississippi,2024,Family4,431483,11706.0,135859.0,8.62
+MS,Mississippi,2024,Female_no_spouse_kids,431483,11706.0,101705.0,11.51
+MS,Mississippi,2024,Male_no_spouse_kids,431483,11706.0,20738.0,56.45
+MS,Mississippi,2024,Married_with_kids,431483,11706.0,181921.0,6.43
+MS,Mississippi,2024,Nonfamily_Female_alone,431483,11706.0,195223.0,6.0
+MS,Mississippi,2024,Nonfamily_Male_alone,431483,11706.0,160904.0,7.28
+MT,Montana,2024,65plus,188073,9449.0,147589.0,6.4
+MT,Montana,2024,Family4,188073,9449.0,44874.0,21.06
+MT,Montana,2024,Female_no_spouse_kids,188073,9449.0,16904.0,55.9
+MT,Montana,2024,Male_no_spouse_kids,188073,9449.0,11006.0,85.85
+MT,Montana,2024,Married_with_kids,188073,9449.0,79148.0,11.94
+MT,Montana,2024,Nonfamily_Female_alone,188073,9449.0,72621.0,13.01
+MT,Montana,2024,Nonfamily_Male_alone,188073,9449.0,70402.0,13.42
+NC,North Carolina,2024,65plus,1148967,10490.0,1248012.0,0.84
+NC,North Carolina,2024,Family4,1148967,10490.0,495638.0,2.12
+NC,North Carolina,2024,Female_no_spouse_kids,1148967,10490.0,277690.0,3.78
+NC,North Carolina,2024,Male_no_spouse_kids,1148967,10490.0,96935.0,10.82
+NC,North Carolina,2024,Married_with_kids,1148967,10490.0,776142.0,1.35
+NC,North Carolina,2024,Nonfamily_Female_alone,1148967,10490.0,746990.0,1.4
+NC,North Carolina,2024,Nonfamily_Male_alone,1148967,10490.0,580629.0,1.81
+ND,North Dakota,2024,65plus,105943,10081.0,90915.0,11.09
+ND,North Dakota,2024,Family4,105943,10081.0,34888.0,28.9
+ND,North Dakota,2024,Female_no_spouse_kids,105943,10081.0,14842.0,67.92
+ND,North Dakota,2024,Male_no_spouse_kids,105943,10081.0,7611.0,132.45
+ND,North Dakota,2024,Married_with_kids,105943,10081.0,65176.0,15.47
+ND,North Dakota,2024,Nonfamily_Female_alone,105943,10081.0,56502.0,17.84
+ND,North Dakota,2024,Nonfamily_Male_alone,105943,10081.0,62693.0,16.08
+NE,Nebraska,2024,65plus,272226,11182.0,226070.0,4.95
+NE,Nebraska,2024,Family4,272226,11182.0,87365.0,12.8
+NE,Nebraska,2024,Female_no_spouse_kids,272226,11182.0,41894.0,26.69
+NE,Nebraska,2024,Male_no_spouse_kids,272226,11182.0,19937.0,56.09
+NE,Nebraska,2024,Married_with_kids,272226,11182.0,164627.0,6.79
+NE,Nebraska,2024,Nonfamily_Female_alone,272226,11182.0,130923.0,8.54
+NE,Nebraska,2024,Nonfamily_Male_alone,272226,11182.0,120185.0,9.3
+NH,New Hampshire,2024,65plus,234830,10575.0,184717.0,5.73
+NH,New Hampshire,2024,Family4,234830,10575.0,57613.0,18.36
+NH,New Hampshire,2024,Female_no_spouse_kids,234830,10575.0,23040.0,45.9
+NH,New Hampshire,2024,Male_no_spouse_kids,234830,10575.0,11886.0,88.97
+NH,New Hampshire,2024,Married_with_kids,234830,10575.0,91617.0,11.54
+NH,New Hampshire,2024,Nonfamily_Female_alone,234830,10575.0,91166.0,11.6
+NH,New Hampshire,2024,Nonfamily_Male_alone,234830,10575.0,72050.0,14.68
+NJ,New Jersey,2024,65plus,1075739,13901.0,1027618.0,1.35
+NJ,New Jersey,2024,Family4,1075739,13901.0,483432.0,2.88
+NJ,New Jersey,2024,Female_no_spouse_kids,1075739,13901.0,205548.0,6.76
+NJ,New Jersey,2024,Male_no_spouse_kids,1075739,13901.0,71989.0,19.31
+NJ,New Jersey,2024,Married_with_kids,1075739,13901.0,690921.0,2.01
+NJ,New Jersey,2024,Nonfamily_Female_alone,1075739,13901.0,544109.0,2.55
+NJ,New Jersey,2024,Nonfamily_Male_alone,1075739,13901.0,385332.0,3.61
+NM,New Mexico,2024,65plus,252475,9553.0,277157.0,3.45
+NM,New Mexico,2024,Family4,252475,9553.0,80642.0,11.85
+NM,New Mexico,2024,Female_no_spouse_kids,252475,9553.0,54715.0,17.46
+NM,New Mexico,2024,Male_no_spouse_kids,252475,9553.0,28466.0,33.56
+NM,New Mexico,2024,Married_with_kids,252475,9553.0,112148.0,8.52
+NM,New Mexico,2024,Nonfamily_Female_alone,252475,9553.0,143745.0,6.65
+NM,New Mexico,2024,Nonfamily_Male_alone,252475,9553.0,129194.0,7.39
+NV,Nevada,2024,65plus,316990,12896.0,339363.0,3.8
+NV,Nevada,2024,Family4,316990,12896.0,138474.0,9.31
+NV,Nevada,2024,Female_no_spouse_kids,316990,12896.0,74309.0,17.35
+NV,Nevada,2024,Male_no_spouse_kids,316990,12896.0,35469.0,36.36
+NV,Nevada,2024,Married_with_kids,316990,12896.0,192471.0,6.7
+NV,Nevada,2024,Nonfamily_Female_alone,316990,12896.0,178452.0,7.23
+NV,Nevada,2024,Nonfamily_Male_alone,316990,12896.0,172647.0,7.47
+NY,New York,2024,65plus,1996240,14429.0,2319319.0,0.62
+NY,New York,2024,Family4,1996240,14429.0,860241.0,1.68
+NY,New York,2024,Female_no_spouse_kids,1996240,14429.0,449490.0,3.21
+NY,New York,2024,Male_no_spouse_kids,1996240,14429.0,147361.0,9.79
+NY,New York,2024,Married_with_kids,1996240,14429.0,1204301.0,1.2
+NY,New York,2024,Nonfamily_Female_alone,1996240,14429.0,1389721.0,1.04
+NY,New York,2024,Nonfamily_Male_alone,1996240,14429.0,1075132.0,1.34
+OH,Ohio,2024,65plus,1227265,11048.0,1452533.0,0.76
+OH,Ohio,2024,Family4,1227265,11048.0,492688.0,2.24
+OH,Ohio,2024,Female_no_spouse_kids,1227265,11048.0,296521.0,3.73
+OH,Ohio,2024,Male_no_spouse_kids,1227265,11048.0,113750.0,9.71
+OH,Ohio,2024,Married_with_kids,1227265,11048.0,785100.0,1.41
+OH,Ohio,2024,Nonfamily_Female_alone,1227265,11048.0,847176.0,1.3
+OH,Ohio,2024,Nonfamily_Male_alone,1227265,11048.0,725800.0,1.52
+OK,Oklahoma,2024,65plus,528377,12160.0,437753.0,2.78
+OK,Oklahoma,2024,Family4,528377,12160.0,172442.0,7.05
+OK,Oklahoma,2024,Female_no_spouse_kids,528377,12160.0,102181.0,11.9
+OK,Oklahoma,2024,Male_no_spouse_kids,528377,12160.0,45118.0,26.95
+OK,Oklahoma,2024,Married_with_kids,528377,12160.0,288886.0,4.21
+OK,Oklahoma,2024,Nonfamily_Female_alone,528377,12160.0,247940.0,4.9
+OK,Oklahoma,2024,Nonfamily_Male_alone,528377,12160.0,225581.0,5.39
+OR,Oregon,2024,65plus,459062,9573.0,522158.0,1.83
+OR,Oregon,2024,Family4,459062,9573.0,177258.0,5.4
+OR,Oregon,2024,Female_no_spouse_kids,459062,9573.0,84588.0,11.32
+OR,Oregon,2024,Male_no_spouse_kids,459062,9573.0,39360.0,24.32
+OR,Oregon,2024,Married_with_kids,459062,9573.0,283019.0,3.38
+OR,Oregon,2024,Nonfamily_Female_alone,459062,9573.0,275583.0,3.47
+OR,Oregon,2024,Nonfamily_Male_alone,459062,9573.0,226431.0,4.23
+PA,Pennsylvania,2024,65plus,1493883,11353.0,1670372.0,0.68
+PA,Pennsylvania,2024,Family4,1493883,11353.0,565448.0,2.01
+PA,Pennsylvania,2024,Female_no_spouse_kids,1493883,11353.0,286219.0,3.97
+PA,Pennsylvania,2024,Male_no_spouse_kids,1493883,11353.0,112778.0,10.07
+PA,Pennsylvania,2024,Married_with_kids,1493883,11353.0,859848.0,1.32
+PA,Pennsylvania,2024,Nonfamily_Female_alone,1493883,11353.0,917493.0,1.24
+PA,Pennsylvania,2024,Nonfamily_Male_alone,1493883,11353.0,751134.0,1.51
+PR,Puerto Rico,2024,65plus,138182,7196.0,495198.0,1.45
+PR,Puerto Rico,2024,Family4,138182,7196.0,108674.0,6.62
+PR,Puerto Rico,2024,Female_no_spouse_kids,138182,7196.0,109024.0,6.6
+PR,Puerto Rico,2024,Male_no_spouse_kids,138182,7196.0,29726.0,24.21
+PR,Puerto Rico,2024,Married_with_kids,138182,7196.0,95098.0,7.57
+PR,Puerto Rico,2024,Nonfamily_Female_alone,138182,7196.0,237069.0,3.04
+PR,Puerto Rico,2024,Nonfamily_Male_alone,138182,7196.0,177876.0,4.05
+RI,Rhode Island,2024,65plus,111983,10772.0,136972.0,7.86
+RI,Rhode Island,2024,Family4,111983,10772.0,44599.0,24.15
+RI,Rhode Island,2024,Female_no_spouse_kids,111983,10772.0,27291.0,39.47
+RI,Rhode Island,2024,Male_no_spouse_kids,111983,10772.0,10715.0,100.53
+RI,Rhode Island,2024,Married_with_kids,111983,10772.0,64851.0,16.61
+RI,Rhode Island,2024,Nonfamily_Female_alone,111983,10772.0,81819.0,13.17
+RI,Rhode Island,2024,Nonfamily_Male_alone,111983,10772.0,60193.0,17.9
+SC,South Carolina,2024,65plus,712041,10579.0,667861.0,1.58
+SC,South Carolina,2024,Family4,712041,10579.0,229558.0,4.61
+SC,South Carolina,2024,Female_no_spouse_kids,712041,10579.0,138351.0,7.65
+SC,South Carolina,2024,Male_no_spouse_kids,712041,10579.0,45406.0,23.3
+SC,South Carolina,2024,Married_with_kids,712041,10579.0,357488.0,2.96
+SC,South Carolina,2024,Nonfamily_Female_alone,712041,10579.0,353650.0,2.99
+SC,South Carolina,2024,Nonfamily_Male_alone,712041,10579.0,277732.0,3.81
+SD,South Dakota,2024,65plus,136475,10256.0,107254.0,9.56
+SD,South Dakota,2024,Family4,136475,10256.0,36452.0,28.14
+SD,South Dakota,2024,Female_no_spouse_kids,136475,10256.0,18502.0,55.43
+SD,South Dakota,2024,Male_no_spouse_kids,136475,10256.0,9739.0,105.31
+SD,South Dakota,2024,Married_with_kids,136475,10256.0,69682.0,14.72
+SD,South Dakota,2024,Nonfamily_Female_alone,136475,10256.0,57808.0,17.74
+SD,South Dakota,2024,Nonfamily_Male_alone,136475,10256.0,62099.0,16.52
+TN,Tennessee,2024,65plus,766844,10354.0,803164.0,1.29
+TN,Tennessee,2024,Family4,766844,10354.0,319543.0,3.24
+TN,Tennessee,2024,Female_no_spouse_kids,766844,10354.0,171837.0,6.03
+TN,Tennessee,2024,Male_no_spouse_kids,766844,10354.0,59675.0,17.35
+TN,Tennessee,2024,Married_with_kids,766844,10354.0,488999.0,2.12
+TN,Tennessee,2024,Nonfamily_Female_alone,766844,10354.0,472517.0,2.19
+TN,Tennessee,2024,Nonfamily_Male_alone,766844,10354.0,388542.0,2.66
+TX,Texas,2024,65plus,2347931,13251.0,2614303.0,0.51
+TX,Texas,2024,Family4,2347931,13251.0,1507108.0,0.88
+TX,Texas,2024,Female_no_spouse_kids,2347931,13251.0,793333.0,1.67
+TX,Texas,2024,Male_no_spouse_kids,2347931,13251.0,268294.0,4.94
+TX,Texas,2024,Married_with_kids,2347931,13251.0,2353236.0,0.56
+TX,Texas,2024,Nonfamily_Female_alone,2347931,13251.0,1588811.0,0.83
+TX,Texas,2024,Nonfamily_Male_alone,2347931,13251.0,1425163.0,0.93
+UT,Utah,2024,65plus,242369,10735.0,258479.0,4.15
+UT,Utah,2024,Family4,242369,10735.0,147506.0,7.28
+UT,Utah,2024,Female_no_spouse_kids,242369,10735.0,51332.0,20.91
+UT,Utah,2024,Male_no_spouse_kids,242369,10735.0,24885.0,43.14
+UT,Utah,2024,Married_with_kids,242369,10735.0,313821.0,3.42
+UT,Utah,2024,Nonfamily_Female_alone,242369,10735.0,123670.0,8.68
+UT,Utah,2024,Nonfamily_Male_alone,242369,10735.0,120936.0,8.88
+VA,Virginia,2024,65plus,1112731,10372.0,957818.0,1.08
+VA,Virginia,2024,Family4,1112731,10372.0,404960.0,2.56
+VA,Virginia,2024,Female_no_spouse_kids,1112731,10372.0,193372.0,5.36
+VA,Virginia,2024,Male_no_spouse_kids,1112731,10372.0,71279.0,14.55
+VA,Virginia,2024,Married_with_kids,1112731,10372.0,647143.0,1.6
+VA,Virginia,2024,Nonfamily_Female_alone,1112731,10372.0,551833.0,1.88
+VA,Virginia,2024,Nonfamily_Male_alone,1112731,10372.0,437451.0,2.37
+VT,Vermont,2024,65plus,124384,10030.0,93282.0,10.75
+VT,Vermont,2024,Family4,124384,10030.0,27004.0,37.14
+VT,Vermont,2024,Female_no_spouse_kids,124384,10030.0,12272.0,81.73
+VT,Vermont,2024,Male_no_spouse_kids,124384,10030.0,5956.0,168.4
+VT,Vermont,2024,Married_with_kids,124384,10030.0,40746.0,24.62
+VT,Vermont,2024,Nonfamily_Female_alone,124384,10030.0,48215.0,20.8
+VT,Vermont,2024,Nonfamily_Male_alone,124384,10030.0,41636.0,24.09
+WA,Washington,2024,65plus,865220,9750.0,836905.0,1.17
+WA,Washington,2024,Family4,865220,9750.0,349397.0,2.79
+WA,Washington,2024,Female_no_spouse_kids,865220,9750.0,142198.0,6.86
+WA,Washington,2024,Male_no_spouse_kids,865220,9750.0,68380.0,14.26
+WA,Washington,2024,Married_with_kids,865220,9750.0,587772.0,1.66
+WA,Washington,2024,Nonfamily_Female_alone,865220,9750.0,468918.0,2.08
+WA,Washington,2024,Nonfamily_Male_alone,865220,9750.0,426587.0,2.29
+WI,Wisconsin,2024,65plus,622437,10039.0,739688.0,1.36
+WI,Wisconsin,2024,Family4,622437,10039.0,235731.0,4.26
+WI,Wisconsin,2024,Female_no_spouse_kids,622437,10039.0,129946.0,7.73
+WI,Wisconsin,2024,Male_no_spouse_kids,622437,10039.0,58872.0,17.05
+WI,Wisconsin,2024,Married_with_kids,622437,10039.0,395970.0,2.54
+WI,Wisconsin,2024,Nonfamily_Female_alone,622437,10039.0,413871.0,2.43
+WI,Wisconsin,2024,Nonfamily_Male_alone,622437,10039.0,392022.0,2.56
+WV,West Virginia,2024,65plus,254195,10448.0,247880.0,4.21
+WV,West Virginia,2024,Family4,254195,10448.0,71215.0,14.67
+WV,West Virginia,2024,Female_no_spouse_kids,254195,10448.0,42555.0,24.55
+WV,West Virginia,2024,Male_no_spouse_kids,254195,10448.0,15874.0,65.82
+WV,West Virginia,2024,Married_with_kids,254195,10448.0,114038.0,9.16
+WV,West Virginia,2024,Nonfamily_Female_alone,254195,10448.0,122049.0,8.56
+WV,West Virginia,2024,Nonfamily_Male_alone,254195,10448.0,102871.0,10.16
+WY,Wyoming,2024,65plus,110505,10804.0,76086.0,14.2
+WY,Wyoming,2024,Family4,110505,10804.0,24359.0,44.35
+WY,Wyoming,2024,Female_no_spouse_kids,110505,10804.0,13098.0,82.49
+WY,Wyoming,2024,Male_no_spouse_kids,110505,10804.0,5392.0,200.37
+WY,Wyoming,2024,Married_with_kids,110505,10804.0,46194.0,23.39
+WY,Wyoming,2024,Nonfamily_Female_alone,110505,10804.0,37647.0,28.7
+WY,Wyoming,2024,Nonfamily_Male_alone,110505,10804.0,38880.0,27.79

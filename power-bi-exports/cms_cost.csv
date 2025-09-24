@@ -1,0 +1,54 @@
+state_code,state_name,cms_cost_per_utilizer
+NY,New York,14429.0
+CA,California,14375.0
+DC,District of Columbia,13905.0
+NJ,New Jersey,13901.0
+MD,Maryland,13722.0
+CT,Connecticut,13587.0
+TX,Texas,13251.0
+NV,Nevada,12896.0
+MA,Massachusetts,12871.0
+FL,Florida,12640.0
+IL,Illinois,12189.0
+OK,Oklahoma,12160.0
+LA,Louisiana,11995.0
+DE,Delaware,11994.0
+MS,Mississippi,11706.0
+AK,Alaska,11594.0
+PA,Pennsylvania,11353.0
+GA,Georgia,11318.0
+MI,Michigan,11315.0
+MO,Missouri,11201.0
+KS,Kansas,11195.0
+IN,Indiana,11188.0
+NE,Nebraska,11182.0
+OH,Ohio,11048.0
+AL,Alabama,11029.0
+MN,Minnesota,11005.0
+WY,Wyoming,10804.0
+RI,Rhode Island,10772.0
+AZ,Arizona,10747.0
+UT,Utah,10735.0
+SC,South Carolina,10579.0
+NH,New Hampshire,10575.0
+CO,Colorado,10495.0
+NC,North Carolina,10490.0
+WV,West Virginia,10448.0
+AR,Arkansas,10434.0
+VA,Virginia,10372.0
+TN,Tennessee,10354.0
+SD,South Dakota,10256.0
+KY,Kentucky,10255.0
+ND,North Dakota,10081.0
+IA,Iowa,10048.0
+WI,Wisconsin,10039.0
+VT,Vermont,10030.0
+ME,Maine,10016.0
+WA,Washington,9750.0
+ID,Idaho,9576.0
+OR,Oregon,9573.0
+NM,New Mexico,9553.0
+MT,Montana,9449.0
+HI,Hawaii,9372.0
+PR,Puerto Rico,7196.0
+,Virgin Islands,6677.0

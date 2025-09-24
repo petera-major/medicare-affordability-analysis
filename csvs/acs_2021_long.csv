@@ -1,0 +1,365 @@
+state_name,state_code,year,income_group,median_income
+Alabama,AL,2021,65plus,563140
+Alaska,AK,2021,65plus,59466
+Arizona,AZ,2021,65plus,814846
+Arkansas,AR,2021,65plus,327367
+California,CA,2021,65plus,3377602
+Colorado,CO,2021,65plus,542724
+Connecticut,CT,2021,65plus,406385
+Delaware,DE,2021,65plus,124872
+District of Columbia,DC,2021,65plus,64233
+Florida,FL,2021,65plus,2750027
+Georgia,GA,2021,65plus,959058
+Hawaii,HI,2021,65plus,158386
+Idaho,ID,2021,65plus,190120
+Illinois,IL,2021,65plus,1323777
+Indiana,IN,2021,65plus,698612
+Iowa,IA,2021,65plus,357929
+Kansas,KS,2021,65plus,307300
+Kentucky,KY,2021,65plus,487552
+Louisiana,LA,2021,65plus,488544
+Maine,ME,2021,65plus,185216
+Maryland,MD,2021,65plus,612418
+Massachusetts,MA,2021,65plus,741325
+Michigan,MI,2021,65plus,1160851
+Minnesota,MN,2021,65plus,597695
+Mississippi,MS,2021,65plus,321780
+Missouri,MO,2021,65plus,678244
+Montana,MT,2021,65plus,135400
+Nebraska,NE,2021,65plus,206167
+Nevada,NV,2021,65plus,308476
+New Hampshire,NH,2021,65plus,161423
+New Jersey,NJ,2021,65plus,952112
+New Mexico,NM,2021,65plus,246773
+New York,NY,2021,65plus,2150241
+North Carolina,NC,2021,65plus,1114731
+North Dakota,ND,2021,65plus,78107
+Ohio,OH,2021,65plus,1343392
+Oklahoma,OK,2021,65plus,407813
+Oregon,OR,2021,65plus,486213
+Pennsylvania,PA,2021,65plus,1549851
+Rhode Island,RI,2021,65plus,124034
+South Carolina,SC,2021,65plus,601469
+South Dakota,SD,2021,65plus,99889
+Tennessee,TN,2021,65plus,746747
+Texas,TX,2021,65plus,2367162
+Utah,UT,2021,65plus,228621
+Vermont,VT,2021,65plus,81486
+Virginia,VA,2021,65plus,865610
+Washington,WA,2021,65plus,756952
+West Virginia,WV,2021,65plus,234486
+Wisconsin,WI,2021,65plus,670745
+Wyoming,WY,2021,65plus,65022
+Puerto Rico,PR,2021,65plus,451860
+Alabama,AL,2021,Female_no_spouse_kids,136730
+Alaska,AK,2021,Female_no_spouse_kids,16174
+Arizona,AZ,2021,Female_no_spouse_kids,167577
+Arkansas,AR,2021,Female_no_spouse_kids,83952
+California,CA,2021,Female_no_spouse_kids,802654
+Colorado,CO,2021,Female_no_spouse_kids,113058
+Connecticut,CT,2021,Female_no_spouse_kids,91500
+Delaware,DE,2021,Female_no_spouse_kids,24237
+District of Columbia,DC,2021,Female_no_spouse_kids,18917
+Florida,FL,2021,Female_no_spouse_kids,523697
+Georgia,GA,2021,Female_no_spouse_kids,307863
+Hawaii,HI,2021,Female_no_spouse_kids,20916
+Idaho,ID,2021,Female_no_spouse_kids,32236
+Illinois,IL,2021,Female_no_spouse_kids,296669
+Indiana,IN,2021,Female_no_spouse_kids,167273
+Iowa,IA,2021,Female_no_spouse_kids,72507
+Kansas,KS,2021,Female_no_spouse_kids,66371
+Kentucky,KY,2021,Female_no_spouse_kids,110290
+Louisiana,LA,2021,Female_no_spouse_kids,149545
+Maine,ME,2021,Female_no_spouse_kids,28552
+Maryland,MD,2021,Female_no_spouse_kids,154018
+Massachusetts,MA,2021,Female_no_spouse_kids,162567
+Michigan,MI,2021,Female_no_spouse_kids,239970
+Minnesota,MN,2021,Female_no_spouse_kids,115306
+Mississippi,MS,2021,Female_no_spouse_kids,95813
+Missouri,MO,2021,Female_no_spouse_kids,150361
+Montana,MT,2021,Female_no_spouse_kids,18595
+Nebraska,NE,2021,Female_no_spouse_kids,41604
+Nevada,NV,2021,Female_no_spouse_kids,78954
+New Hampshire,NH,2021,Female_no_spouse_kids,24227
+New Jersey,NJ,2021,Female_no_spouse_kids,200134
+New Mexico,NM,2021,Female_no_spouse_kids,60425
+New York,NY,2021,Female_no_spouse_kids,453669
+North Carolina,NC,2021,Female_no_spouse_kids,271939
+North Dakota,ND,2021,Female_no_spouse_kids,14454
+Ohio,OH,2021,Female_no_spouse_kids,324813
+Oklahoma,OK,2021,Female_no_spouse_kids,103521
+Oregon,OR,2021,Female_no_spouse_kids,86495
+Pennsylvania,PA,2021,Female_no_spouse_kids,300562
+Rhode Island,RI,2021,Female_no_spouse_kids,27951
+South Carolina,SC,2021,Female_no_spouse_kids,144666
+South Dakota,SD,2021,Female_no_spouse_kids,17877
+Tennessee,TN,2021,Female_no_spouse_kids,174886
+Texas,TX,2021,Female_no_spouse_kids,781133
+Utah,UT,2021,Female_no_spouse_kids,48878
+Vermont,VT,2021,Female_no_spouse_kids,13630
+Virginia,VA,2021,Female_no_spouse_kids,190940
+Washington,WA,2021,Female_no_spouse_kids,153705
+West Virginia,WV,2021,Female_no_spouse_kids,40198
+Wisconsin,WI,2021,Female_no_spouse_kids,141620
+Wyoming,WY,2021,Female_no_spouse_kids,11787
+Puerto Rico,PR,2021,Female_no_spouse_kids,109009
+Alabama,AL,2021,Male_no_spouse_kids,38859
+Alaska,AK,2021,Male_no_spouse_kids,6523
+Arizona,AZ,2021,Male_no_spouse_kids,78586
+Arkansas,AR,2021,Male_no_spouse_kids,28886
+California,CA,2021,Male_no_spouse_kids,347706
+Colorado,CO,2021,Male_no_spouse_kids,49895
+Connecticut,CT,2021,Male_no_spouse_kids,28123
+Delaware,DE,2021,Male_no_spouse_kids,8021
+District of Columbia,DC,2021,Male_no_spouse_kids,2559
+Florida,FL,2021,Male_no_spouse_kids,177556
+Georgia,GA,2021,Male_no_spouse_kids,85750
+Hawaii,HI,2021,Male_no_spouse_kids,10070
+Idaho,ID,2021,Male_no_spouse_kids,18689
+Illinois,IL,2021,Male_no_spouse_kids,107654
+Indiana,IN,2021,Male_no_spouse_kids,62920
+Iowa,IA,2021,Male_no_spouse_kids,31426
+Kansas,KS,2021,Male_no_spouse_kids,28742
+Kentucky,KY,2021,Male_no_spouse_kids,41674
+Louisiana,LA,2021,Male_no_spouse_kids,46100
+Maine,ME,2021,Male_no_spouse_kids,11354
+Maryland,MD,2021,Male_no_spouse_kids,49064
+Massachusetts,MA,2021,Male_no_spouse_kids,51060
+Michigan,MI,2021,Male_no_spouse_kids,95233
+Minnesota,MN,2021,Male_no_spouse_kids,53318
+Mississippi,MS,2021,Male_no_spouse_kids,21208
+Missouri,MO,2021,Male_no_spouse_kids,53226
+Montana,MT,2021,Male_no_spouse_kids,10857
+Nebraska,NE,2021,Male_no_spouse_kids,19418
+Nevada,NV,2021,Male_no_spouse_kids,37084
+New Hampshire,NH,2021,Male_no_spouse_kids,12004
+New Jersey,NJ,2021,Male_no_spouse_kids,68642
+New Mexico,NM,2021,Male_no_spouse_kids,25711
+New York,NY,2021,Male_no_spouse_kids,152312
+North Carolina,NC,2021,Male_no_spouse_kids,80584
+North Dakota,ND,2021,Male_no_spouse_kids,9020
+Ohio,OH,2021,Male_no_spouse_kids,114324
+Oklahoma,OK,2021,Male_no_spouse_kids,40534
+Oregon,OR,2021,Male_no_spouse_kids,41208
+Pennsylvania,PA,2021,Male_no_spouse_kids,111407
+Rhode Island,RI,2021,Male_no_spouse_kids,7056
+South Carolina,SC,2021,Male_no_spouse_kids,39401
+South Dakota,SD,2021,Male_no_spouse_kids,8858
+Tennessee,TN,2021,Male_no_spouse_kids,55546
+Texas,TX,2021,Male_no_spouse_kids,250972
+Utah,UT,2021,Male_no_spouse_kids,21769
+Vermont,VT,2021,Male_no_spouse_kids,5853
+Virginia,VA,2021,Male_no_spouse_kids,70809
+Washington,WA,2021,Male_no_spouse_kids,71116
+West Virginia,WV,2021,Male_no_spouse_kids,14388
+Wisconsin,WI,2021,Male_no_spouse_kids,64296
+Wyoming,WY,2021,Male_no_spouse_kids,6444
+Puerto Rico,PR,2021,Male_no_spouse_kids,33877
+Alabama,AL,2021,Married_with_kids,314991
+Alaska,AK,2021,Married_with_kids,54040
+Arizona,AZ,2021,Married_with_kids,481565
+Arkansas,AR,2021,Married_with_kids,210201
+California,CA,2021,Married_with_kids,2672991
+Colorado,CO,2021,Married_with_kids,436543
+Connecticut,CT,2021,Married_with_kids,248828
+Delaware,DE,2021,Married_with_kids,59382
+District of Columbia,DC,2021,Married_with_kids,29726
+Florida,FL,2021,Married_with_kids,1255985
+Georgia,GA,2021,Married_with_kids,723065
+Hawaii,HI,2021,Married_with_kids,89563
+Idaho,ID,2021,Married_with_kids,155081
+Illinois,IL,2021,Married_with_kids,898158
+Indiana,IN,2021,Married_with_kids,484642
+Iowa,IA,2021,Married_with_kids,245038
+Kansas,KS,2021,Married_with_kids,227919
+Kentucky,KY,2021,Married_with_kids,310982
+Louisiana,LA,2021,Married_with_kids,273691
+Maine,ME,2021,Married_with_kids,90006
+Maryland,MD,2021,Married_with_kids,436731
+Massachusetts,MA,2021,Married_with_kids,488039
+Michigan,MI,2021,Married_with_kids,660916
+Minnesota,MN,2021,Married_with_kids,440532
+Mississippi,MS,2021,Married_with_kids,175615
+Missouri,MO,2021,Married_with_kids,423807
+Montana,MT,2021,Married_with_kids,73014
+Nebraska,NE,2021,Married_with_kids,155245
+Nevada,NV,2021,Married_with_kids,199006
+New Hampshire,NH,2021,Married_with_kids,95130
+New Jersey,NJ,2021,Married_with_kids,729068
+New Mexico,NM,2021,Married_with_kids,122196
+New York,NY,2021,Married_with_kids,1229511
+North Carolina,NC,2021,Married_with_kids,708644
+North Dakota,ND,2021,Married_with_kids,56130
+Ohio,OH,2021,Married_with_kids,779569
+Oklahoma,OK,2021,Married_with_kids,281590
+Oregon,OR,2021,Married_with_kids,292688
+Pennsylvania,PA,2021,Married_with_kids,858338
+Rhode Island,RI,2021,Married_with_kids,66264
+South Carolina,SC,2021,Married_with_kids,322244
+South Dakota,SD,2021,Married_with_kids,66607
+Tennessee,TN,2021,Married_with_kids,462400
+Texas,TX,2021,Married_with_kids,2326042
+Utah,UT,2021,Married_with_kids,312918
+Vermont,VT,2021,Married_with_kids,41872
+Virginia,VA,2021,Married_with_kids,638495
+Washington,WA,2021,Married_with_kids,576429
+West Virginia,WV,2021,Married_with_kids,106334
+Wisconsin,WI,2021,Married_with_kids,412475
+Wyoming,WY,2021,Married_with_kids,47029
+Puerto Rico,PR,2021,Married_with_kids,90099
+Alabama,AL,2021,Family4,210985
+Alaska,AK,2021,Family4,29692
+Arizona,AZ,2021,Family4,301993
+Arkansas,AR,2021,Family4,123345
+California,CA,2021,Family4,1863538
+Colorado,CO,2021,Family4,259199
+Connecticut,CT,2021,Family4,168752
+Delaware,DE,2021,Family4,40540
+District of Columbia,DC,2021,Family4,19914
+Florida,FL,2021,Family4,872119
+Georgia,GA,2021,Family4,477831
+Hawaii,HI,2021,Family4,58015
+Idaho,ID,2021,Family4,76312
+Illinois,IL,2021,Family4,586694
+Indiana,IN,2021,Family4,292183
+Iowa,IA,2021,Family4,133597
+Kansas,KS,2021,Family4,121251
+Kentucky,KY,2021,Family4,194348
+Louisiana,LA,2021,Family4,188939
+Maine,ME,2021,Family4,56706
+Maryland,MD,2021,Family4,292680
+Massachusetts,MA,2021,Family4,345615
+Michigan,MI,2021,Family4,423777
+Minnesota,MN,2021,Family4,257777
+Mississippi,MS,2021,Family4,116628
+Missouri,MO,2021,Family4,258702
+Montana,MT,2021,Family4,43145
+Nebraska,NE,2021,Family4,86214
+Nevada,NV,2021,Family4,124668
+New Hampshire,NH,2021,Family4,59294
+New Jersey,NJ,2021,Family4,500884
+New Mexico,NM,2021,Family4,84350
+New York,NY,2021,Family4,861784
+North Carolina,NC,2021,Family4,450093
+North Dakota,ND,2021,Family4,28254
+Ohio,OH,2021,Family4,500030
+Oklahoma,OK,2021,Family4,173056
+Oregon,OR,2021,Family4,175840
+Pennsylvania,PA,2021,Family4,566984
+Rhode Island,RI,2021,Family4,47595
+South Carolina,SC,2021,Family4,219036
+South Dakota,SD,2021,Family4,35708
+Tennessee,TN,2021,Family4,302376
+Texas,TX,2021,Family4,1427273
+Utah,UT,2021,Family4,137239
+Vermont,VT,2021,Family4,26635
+Virginia,VA,2021,Family4,386916
+Washington,WA,2021,Family4,333956
+West Virginia,WV,2021,Family4,74742
+Wisconsin,WI,2021,Family4,249250
+Wyoming,WY,2021,Family4,23873
+Puerto Rico,PR,2021,Family4,115158
+Alabama,AL,2021,Nonfamily_Female_alone,334701
+Alaska,AK,2021,Nonfamily_Female_alone,37681
+Arizona,AZ,2021,Nonfamily_Female_alone,394337
+Arkansas,AR,2021,Nonfamily_Female_alone,186444
+California,CA,2021,Nonfamily_Female_alone,1765349
+Colorado,CO,2021,Nonfamily_Female_alone,328741
+Connecticut,CT,2021,Nonfamily_Female_alone,234337
+Delaware,DE,2021,Nonfamily_Female_alone,67227
+District of Columbia,DC,2021,Nonfamily_Female_alone,85455
+Florida,FL,2021,Nonfamily_Female_alone,1368057
+Georgia,GA,2021,Nonfamily_Female_alone,602379
+Hawaii,HI,2021,Nonfamily_Female_alone,62037
+Idaho,ID,2021,Nonfamily_Female_alone,90179
+Illinois,IL,2021,Nonfamily_Female_alone,833443
+Indiana,IN,2021,Nonfamily_Female_alone,415889
+Iowa,IA,2021,Nonfamily_Female_alone,204509
+Kansas,KS,2021,Nonfamily_Female_alone,186092
+Kentucky,KY,2021,Nonfamily_Female_alone,276241
+Louisiana,LA,2021,Nonfamily_Female_alone,301176
+Maine,ME,2021,Nonfamily_Female_alone,100648
+Maryland,MD,2021,Nonfamily_Female_alone,375458
+Massachusetts,MA,2021,Nonfamily_Female_alone,455374
+Michigan,MI,2021,Nonfamily_Female_alone,659727
+Minnesota,MN,2021,Nonfamily_Female_alone,354402
+Mississippi,MS,2021,Nonfamily_Female_alone,179332
+Missouri,MO,2021,Nonfamily_Female_alone,412251
+Montana,MT,2021,Nonfamily_Female_alone,65024
+Nebraska,NE,2021,Nonfamily_Female_alone,129792
+Nevada,NV,2021,Nonfamily_Female_alone,165112
+New Hampshire,NH,2021,Nonfamily_Female_alone,77428
+New Jersey,NJ,2021,Nonfamily_Female_alone,517671
+New Mexico,NM,2021,Nonfamily_Female_alone,134763
+New York,NY,2021,Nonfamily_Female_alone,1335592
+North Carolina,NC,2021,Nonfamily_Female_alone,693839
+North Dakota,ND,2021,Nonfamily_Female_alone,48971
+Ohio,OH,2021,Nonfamily_Female_alone,810124
+Oklahoma,OK,2021,Nonfamily_Female_alone,246667
+Oregon,OR,2021,Nonfamily_Female_alone,262393
+Pennsylvania,PA,2021,Nonfamily_Female_alone,871963
+Rhode Island,RI,2021,Nonfamily_Female_alone,75556
+South Carolina,SC,2021,Nonfamily_Female_alone,334742
+South Dakota,SD,2021,Nonfamily_Female_alone,55489
+Tennessee,TN,2021,Nonfamily_Female_alone,448316
+Texas,TX,2021,Nonfamily_Female_alone,1448956
+Utah,UT,2021,Nonfamily_Female_alone,118317
+Vermont,VT,2021,Nonfamily_Female_alone,42448
+Virginia,VA,2021,Nonfamily_Female_alone,527589
+Washington,WA,2021,Nonfamily_Female_alone,428436
+West Virginia,WV,2021,Nonfamily_Female_alone,116416
+Wisconsin,WI,2021,Nonfamily_Female_alone,388274
+Wyoming,WY,2021,Nonfamily_Female_alone,36038
+Puerto Rico,PR,2021,Nonfamily_Female_alone,214509
+Alabama,AL,2021,Nonfamily_Male_alone,272479
+Alaska,AK,2021,Nonfamily_Male_alone,40000
+Arizona,AZ,2021,Nonfamily_Male_alone,347338
+Arkansas,AR,2021,Nonfamily_Male_alone,152953
+California,CA,2021,Nonfamily_Male_alone,1453170
+Colorado,CO,2021,Nonfamily_Male_alone,316240
+Connecticut,CT,2021,Nonfamily_Male_alone,177429
+Delaware,DE,2021,Nonfamily_Male_alone,47451
+District of Columbia,DC,2021,Nonfamily_Male_alone,68685
+Florida,FL,2021,Nonfamily_Male_alone,1067779
+Georgia,GA,2021,Nonfamily_Male_alone,471040
+Hawaii,HI,2021,Nonfamily_Male_alone,58598
+Idaho,ID,2021,Nonfamily_Male_alone,77839
+Illinois,IL,2021,Nonfamily_Male_alone,694594
+Indiana,IN,2021,Nonfamily_Male_alone,363782
+Iowa,IA,2021,Nonfamily_Male_alone,188423
+Kansas,KS,2021,Nonfamily_Male_alone,161506
+Kentucky,KY,2021,Nonfamily_Male_alone,233504
+Louisiana,LA,2021,Nonfamily_Male_alone,245857
+Maine,ME,2021,Nonfamily_Male_alone,76771
+Maryland,MD,2021,Nonfamily_Male_alone,282848
+Massachusetts,MA,2021,Nonfamily_Male_alone,332152
+Michigan,MI,2021,Nonfamily_Male_alone,562104
+Minnesota,MN,2021,Nonfamily_Male_alone,309146
+Mississippi,MS,2021,Nonfamily_Male_alone,155651
+Missouri,MO,2021,Nonfamily_Male_alone,331029
+Montana,MT,2021,Nonfamily_Male_alone,66016
+Nebraska,NE,2021,Nonfamily_Male_alone,109131
+Nevada,NV,2021,Nonfamily_Male_alone,168183
+New Hampshire,NH,2021,Nonfamily_Male_alone,64679
+New Jersey,NJ,2021,Nonfamily_Male_alone,398170
+New Mexico,NM,2021,Nonfamily_Male_alone,123191
+New York,NY,2021,Nonfamily_Male_alone,1030178
+North Carolina,NC,2021,Nonfamily_Male_alone,534628
+North Dakota,ND,2021,Nonfamily_Male_alone,58124
+Ohio,OH,2021,Nonfamily_Male_alone,694807
+Oklahoma,OK,2021,Nonfamily_Male_alone,207406
+Oregon,OR,2021,Nonfamily_Male_alone,216855
+Pennsylvania,PA,2021,Nonfamily_Male_alone,708190
+Rhode Island,RI,2021,Nonfamily_Male_alone,58105
+South Carolina,SC,2021,Nonfamily_Male_alone,260976
+South Dakota,SD,2021,Nonfamily_Male_alone,52452
+Tennessee,TN,2021,Nonfamily_Male_alone,359546
+Texas,TX,2021,Nonfamily_Male_alone,1319936
+Utah,UT,2021,Nonfamily_Male_alone,108678
+Vermont,VT,2021,Nonfamily_Male_alone,32879
+Virginia,VA,2021,Nonfamily_Male_alone,415076
+Washington,WA,2021,Nonfamily_Male_alone,391257
+West Virginia,WV,2021,Nonfamily_Male_alone,99223
+Wisconsin,WI,2021,Nonfamily_Male_alone,353928
+Wyoming,WY,2021,Nonfamily_Male_alone,39050
+Puerto Rico,PR,2021,Nonfamily_Male_alone,150676

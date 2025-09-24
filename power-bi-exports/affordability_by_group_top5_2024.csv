@@ -1,0 +1,36 @@
+state_code,state_name,income_group,cms_cost_per_utilizer,median_income,affordability_index_pct,rank
+DC,District of Columbia,65plus,13905.0,61812.0,22.5,1
+AK,Alaska,65plus,11594.0,66642.0,17.4,2
+WY,Wyoming,65plus,10804.0,76086.0,14.2,3
+ND,North Dakota,65plus,10081.0,90915.0,11.09,4
+VT,Vermont,65plus,10030.0,93282.0,10.75,5
+DC,District of Columbia,Family4,13905.0,21766.0,63.88,1
+WY,Wyoming,Family4,10804.0,24359.0,44.35,2
+AK,Alaska,Family4,11594.0,30259.0,38.32,3
+VT,Vermont,Family4,10030.0,27004.0,37.14,4
+ND,North Dakota,Family4,10081.0,34888.0,28.9,5
+WY,Wyoming,Female_no_spouse_kids,10804.0,13098.0,82.49,1
+VT,Vermont,Female_no_spouse_kids,10030.0,12272.0,81.73,2
+AK,Alaska,Female_no_spouse_kids,11594.0,15148.0,76.54,3
+ND,North Dakota,Female_no_spouse_kids,10081.0,14842.0,67.92,4
+DC,District of Columbia,Female_no_spouse_kids,13905.0,23468.0,59.25,5
+DC,District of Columbia,Male_no_spouse_kids,13905.0,4051.0,343.25,1
+WY,Wyoming,Male_no_spouse_kids,10804.0,5392.0,200.37,2
+VT,Vermont,Male_no_spouse_kids,10030.0,5956.0,168.4,3
+AK,Alaska,Male_no_spouse_kids,11594.0,7999.0,144.94,4
+DE,Delaware,Male_no_spouse_kids,11994.0,8328.0,144.02,5
+DC,District of Columbia,Married_with_kids,13905.0,31672.0,43.9,1
+VT,Vermont,Married_with_kids,10030.0,40746.0,24.62,2
+WY,Wyoming,Married_with_kids,10804.0,46194.0,23.39,3
+AK,Alaska,Married_with_kids,11594.0,53958.0,21.49,4
+DE,Delaware,Married_with_kids,11994.0,62949.0,19.05,5
+AK,Alaska,Nonfamily_Female_alone,11594.0,36424.0,31.83,1
+WY,Wyoming,Nonfamily_Female_alone,10804.0,37647.0,28.7,2
+VT,Vermont,Nonfamily_Female_alone,10030.0,48215.0,20.8,3
+DE,Delaware,Nonfamily_Female_alone,11994.0,63275.0,18.96,4
+ND,North Dakota,Nonfamily_Female_alone,10081.0,56502.0,17.84,5
+AK,Alaska,Nonfamily_Male_alone,11594.0,40668.0,28.51,1
+WY,Wyoming,Nonfamily_Male_alone,10804.0,38880.0,27.79,2
+DE,Delaware,Nonfamily_Male_alone,11994.0,49706.0,24.13,3
+VT,Vermont,Nonfamily_Male_alone,10030.0,41636.0,24.09,4
+DC,District of Columbia,Nonfamily_Male_alone,13905.0,65212.0,21.32,5

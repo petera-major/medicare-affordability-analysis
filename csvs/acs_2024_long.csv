@@ -1,0 +1,365 @@
+state_name,state_code,year,income_group,median_income
+Alabama,AL,2024,65plus,611532
+Alaska,AK,2024,65plus,66642
+Arizona,AZ,2024,65plus,917646
+Arkansas,AR,2024,65plus,360301
+California,CA,2024,65plus,3713165
+Colorado,CO,2024,65plus,611451
+Connecticut,CT,2024,65plus,446396
+Delaware,DE,2024,65plus,141175
+District of Columbia,DC,2024,65plus,61812
+Florida,FL,2024,65plus,3020141
+Georgia,GA,2024,65plus,1067833
+Hawaii,HI,2024,65plus,174395
+Idaho,ID,2024,65plus,211921
+Illinois,IL,2024,65plus,1434880
+Indiana,IN,2024,65plus,778955
+Iowa,IA,2024,65plus,380845
+Kansas,KS,2024,65plus,339508
+Kentucky,KY,2024,65plus,528114
+Louisiana,LA,2024,65plus,529134
+Maine,ME,2024,65plus,208234
+Maryland,MD,2024,65plus,677874
+Massachusetts,MA,2024,65plus,823493
+Michigan,MI,2024,65plus,1269464
+Minnesota,MN,2024,65plus,657239
+Mississippi,MS,2024,65plus,344818
+Missouri,MO,2024,65plus,744490
+Montana,MT,2024,65plus,147589
+Nebraska,NE,2024,65plus,226070
+Nevada,NV,2024,65plus,339363
+New Hampshire,NH,2024,65plus,184717
+New Jersey,NJ,2024,65plus,1027618
+New Mexico,NM,2024,65plus,277157
+New York,NY,2024,65plus,2319319
+North Carolina,NC,2024,65plus,1248012
+North Dakota,ND,2024,65plus,90915
+Ohio,OH,2024,65plus,1452533
+Oklahoma,OK,2024,65plus,437753
+Oregon,OR,2024,65plus,522158
+Pennsylvania,PA,2024,65plus,1670372
+Rhode Island,RI,2024,65plus,136972
+South Carolina,SC,2024,65plus,667861
+South Dakota,SD,2024,65plus,107254
+Tennessee,TN,2024,65plus,803164
+Texas,TX,2024,65plus,2614303
+Utah,UT,2024,65plus,258479
+Vermont,VT,2024,65plus,93282
+Virginia,VA,2024,65plus,957818
+Washington,WA,2024,65plus,836905
+West Virginia,WV,2024,65plus,247880
+Wisconsin,WI,2024,65plus,739688
+Wyoming,WY,2024,65plus,76086
+Puerto Rico,PR,2024,65plus,495198
+Alabama,AL,2024,Female_no_spouse_kids,143812
+Alaska,AK,2024,Female_no_spouse_kids,15148
+Arizona,AZ,2024,Female_no_spouse_kids,157485
+Arkansas,AR,2024,Female_no_spouse_kids,80703
+California,CA,2024,Female_no_spouse_kids,785199
+Colorado,CO,2024,Female_no_spouse_kids,109140
+Connecticut,CT,2024,Female_no_spouse_kids,88950
+Delaware,DE,2024,Female_no_spouse_kids,26708
+District of Columbia,DC,2024,Female_no_spouse_kids,23468
+Florida,FL,2024,Female_no_spouse_kids,501746
+Georgia,GA,2024,Female_no_spouse_kids,297357
+Hawaii,HI,2024,Female_no_spouse_kids,27197
+Idaho,ID,2024,Female_no_spouse_kids,38503
+Illinois,IL,2024,Female_no_spouse_kids,286359
+Indiana,IN,2024,Female_no_spouse_kids,175401
+Iowa,IA,2024,Female_no_spouse_kids,80483
+Kansas,KS,2024,Female_no_spouse_kids,61884
+Kentucky,KY,2024,Female_no_spouse_kids,111743
+Louisiana,LA,2024,Female_no_spouse_kids,149620
+Maine,ME,2024,Female_no_spouse_kids,24948
+Maryland,MD,2024,Female_no_spouse_kids,142819
+Massachusetts,MA,2024,Female_no_spouse_kids,156265
+Michigan,MI,2024,Female_no_spouse_kids,227305
+Minnesota,MN,2024,Female_no_spouse_kids,115814
+Mississippi,MS,2024,Female_no_spouse_kids,101705
+Missouri,MO,2024,Female_no_spouse_kids,141179
+Montana,MT,2024,Female_no_spouse_kids,16904
+Nebraska,NE,2024,Female_no_spouse_kids,41894
+Nevada,NV,2024,Female_no_spouse_kids,74309
+New Hampshire,NH,2024,Female_no_spouse_kids,23040
+New Jersey,NJ,2024,Female_no_spouse_kids,205548
+New Mexico,NM,2024,Female_no_spouse_kids,54715
+New York,NY,2024,Female_no_spouse_kids,449490
+North Carolina,NC,2024,Female_no_spouse_kids,277690
+North Dakota,ND,2024,Female_no_spouse_kids,14842
+Ohio,OH,2024,Female_no_spouse_kids,296521
+Oklahoma,OK,2024,Female_no_spouse_kids,102181
+Oregon,OR,2024,Female_no_spouse_kids,84588
+Pennsylvania,PA,2024,Female_no_spouse_kids,286219
+Rhode Island,RI,2024,Female_no_spouse_kids,27291
+South Carolina,SC,2024,Female_no_spouse_kids,138351
+South Dakota,SD,2024,Female_no_spouse_kids,18502
+Tennessee,TN,2024,Female_no_spouse_kids,171837
+Texas,TX,2024,Female_no_spouse_kids,793333
+Utah,UT,2024,Female_no_spouse_kids,51332
+Vermont,VT,2024,Female_no_spouse_kids,12272
+Virginia,VA,2024,Female_no_spouse_kids,193372
+Washington,WA,2024,Female_no_spouse_kids,142198
+West Virginia,WV,2024,Female_no_spouse_kids,42555
+Wisconsin,WI,2024,Female_no_spouse_kids,129946
+Wyoming,WY,2024,Female_no_spouse_kids,13098
+Puerto Rico,PR,2024,Female_no_spouse_kids,109024
+Alabama,AL,2024,Male_no_spouse_kids,36997
+Alaska,AK,2024,Male_no_spouse_kids,7999
+Arizona,AZ,2024,Male_no_spouse_kids,70529
+Arkansas,AR,2024,Male_no_spouse_kids,28303
+California,CA,2024,Male_no_spouse_kids,345015
+Colorado,CO,2024,Male_no_spouse_kids,48397
+Connecticut,CT,2024,Male_no_spouse_kids,31248
+Delaware,DE,2024,Male_no_spouse_kids,8328
+District of Columbia,DC,2024,Male_no_spouse_kids,4051
+Florida,FL,2024,Male_no_spouse_kids,183638
+Georgia,GA,2024,Male_no_spouse_kids,85189
+Hawaii,HI,2024,Male_no_spouse_kids,11110
+Idaho,ID,2024,Male_no_spouse_kids,18088
+Illinois,IL,2024,Male_no_spouse_kids,109472
+Indiana,IN,2024,Male_no_spouse_kids,73282
+Iowa,IA,2024,Male_no_spouse_kids,34218
+Kansas,KS,2024,Male_no_spouse_kids,26323
+Kentucky,KY,2024,Male_no_spouse_kids,47779
+Louisiana,LA,2024,Male_no_spouse_kids,46952
+Maine,ME,2024,Male_no_spouse_kids,12386
+Maryland,MD,2024,Male_no_spouse_kids,52160
+Massachusetts,MA,2024,Male_no_spouse_kids,57576
+Michigan,MI,2024,Male_no_spouse_kids,92991
+Minnesota,MN,2024,Male_no_spouse_kids,56599
+Mississippi,MS,2024,Male_no_spouse_kids,20738
+Missouri,MO,2024,Male_no_spouse_kids,64586
+Montana,MT,2024,Male_no_spouse_kids,11006
+Nebraska,NE,2024,Male_no_spouse_kids,19937
+Nevada,NV,2024,Male_no_spouse_kids,35469
+New Hampshire,NH,2024,Male_no_spouse_kids,11886
+New Jersey,NJ,2024,Male_no_spouse_kids,71989
+New Mexico,NM,2024,Male_no_spouse_kids,28466
+New York,NY,2024,Male_no_spouse_kids,147361
+North Carolina,NC,2024,Male_no_spouse_kids,96935
+North Dakota,ND,2024,Male_no_spouse_kids,7611
+Ohio,OH,2024,Male_no_spouse_kids,113750
+Oklahoma,OK,2024,Male_no_spouse_kids,45118
+Oregon,OR,2024,Male_no_spouse_kids,39360
+Pennsylvania,PA,2024,Male_no_spouse_kids,112778
+Rhode Island,RI,2024,Male_no_spouse_kids,10715
+South Carolina,SC,2024,Male_no_spouse_kids,45406
+South Dakota,SD,2024,Male_no_spouse_kids,9739
+Tennessee,TN,2024,Male_no_spouse_kids,59675
+Texas,TX,2024,Male_no_spouse_kids,268294
+Utah,UT,2024,Male_no_spouse_kids,24885
+Vermont,VT,2024,Male_no_spouse_kids,5956
+Virginia,VA,2024,Male_no_spouse_kids,71279
+Washington,WA,2024,Male_no_spouse_kids,68380
+West Virginia,WV,2024,Male_no_spouse_kids,15874
+Wisconsin,WI,2024,Male_no_spouse_kids,58872
+Wyoming,WY,2024,Male_no_spouse_kids,5392
+Puerto Rico,PR,2024,Male_no_spouse_kids,29726
+Alabama,AL,2024,Married_with_kids,321774
+Alaska,AK,2024,Married_with_kids,53958
+Arizona,AZ,2024,Married_with_kids,473005
+Arkansas,AR,2024,Married_with_kids,216016
+California,CA,2024,Married_with_kids,2597957
+Colorado,CO,2024,Married_with_kids,448506
+Connecticut,CT,2024,Married_with_kids,244223
+Delaware,DE,2024,Married_with_kids,62949
+District of Columbia,DC,2024,Married_with_kids,31672
+Florida,FL,2024,Married_with_kids,1371191
+Georgia,GA,2024,Married_with_kids,751143
+Hawaii,HI,2024,Married_with_kids,81570
+Idaho,ID,2024,Married_with_kids,162570
+Illinois,IL,2024,Married_with_kids,851586
+Indiana,IN,2024,Married_with_kids,476337
+Iowa,IA,2024,Married_with_kids,238232
+Kansas,KS,2024,Married_with_kids,230736
+Kentucky,KY,2024,Married_with_kids,319058
+Louisiana,LA,2024,Married_with_kids,275386
+Maine,ME,2024,Married_with_kids,86733
+Maryland,MD,2024,Married_with_kids,428454
+Massachusetts,MA,2024,Married_with_kids,473236
+Michigan,MI,2024,Married_with_kids,656130
+Minnesota,MN,2024,Married_with_kids,435173
+Mississippi,MS,2024,Married_with_kids,181921
+Missouri,MO,2024,Married_with_kids,435776
+Montana,MT,2024,Married_with_kids,79148
+Nebraska,NE,2024,Married_with_kids,164627
+Nevada,NV,2024,Married_with_kids,192471
+New Hampshire,NH,2024,Married_with_kids,91617
+New Jersey,NJ,2024,Married_with_kids,690921
+New Mexico,NM,2024,Married_with_kids,112148
+New York,NY,2024,Married_with_kids,1204301
+North Carolina,NC,2024,Married_with_kids,776142
+North Dakota,ND,2024,Married_with_kids,65176
+Ohio,OH,2024,Married_with_kids,785100
+Oklahoma,OK,2024,Married_with_kids,288886
+Oregon,OR,2024,Married_with_kids,283019
+Pennsylvania,PA,2024,Married_with_kids,859848
+Rhode Island,RI,2024,Married_with_kids,64851
+South Carolina,SC,2024,Married_with_kids,357488
+South Dakota,SD,2024,Married_with_kids,69682
+Tennessee,TN,2024,Married_with_kids,488999
+Texas,TX,2024,Married_with_kids,2353236
+Utah,UT,2024,Married_with_kids,313821
+Vermont,VT,2024,Married_with_kids,40746
+Virginia,VA,2024,Married_with_kids,647143
+Washington,WA,2024,Married_with_kids,587772
+West Virginia,WV,2024,Married_with_kids,114038
+Wisconsin,WI,2024,Married_with_kids,395970
+Wyoming,WY,2024,Married_with_kids,46194
+Puerto Rico,PR,2024,Married_with_kids,95098
+Alabama,AL,2024,Family4,219517
+Alaska,AK,2024,Family4,30259
+Arizona,AZ,2024,Family4,313943
+Arkansas,AR,2024,Family4,131121
+California,CA,2024,Family4,1852673
+Colorado,CO,2024,Family4,272603
+Connecticut,CT,2024,Family4,174543
+Delaware,DE,2024,Family4,45452
+District of Columbia,DC,2024,Family4,21766
+Florida,FL,2024,Family4,950122
+Georgia,GA,2024,Family4,499120
+Hawaii,HI,2024,Family4,57850
+Idaho,ID,2024,Family4,83000
+Illinois,IL,2024,Family4,577500
+Indiana,IN,2024,Family4,300207
+Iowa,IA,2024,Family4,138126
+Kansas,KS,2024,Family4,129984
+Kentucky,KY,2024,Family4,192882
+Louisiana,LA,2024,Family4,194429
+Maine,ME,2024,Family4,54271
+Maryland,MD,2024,Family4,283158
+Massachusetts,MA,2024,Family4,343232
+Michigan,MI,2024,Family4,429095
+Minnesota,MN,2024,Family4,245931
+Mississippi,MS,2024,Family4,135859
+Missouri,MO,2024,Family4,273506
+Montana,MT,2024,Family4,44874
+Nebraska,NE,2024,Family4,87365
+Nevada,NV,2024,Family4,138474
+New Hampshire,NH,2024,Family4,57613
+New Jersey,NJ,2024,Family4,483432
+New Mexico,NM,2024,Family4,80642
+New York,NY,2024,Family4,860241
+North Carolina,NC,2024,Family4,495638
+North Dakota,ND,2024,Family4,34888
+Ohio,OH,2024,Family4,492688
+Oklahoma,OK,2024,Family4,172442
+Oregon,OR,2024,Family4,177258
+Pennsylvania,PA,2024,Family4,565448
+Rhode Island,RI,2024,Family4,44599
+South Carolina,SC,2024,Family4,229558
+South Dakota,SD,2024,Family4,36452
+Tennessee,TN,2024,Family4,319543
+Texas,TX,2024,Family4,1507108
+Utah,UT,2024,Family4,147506
+Vermont,VT,2024,Family4,27004
+Virginia,VA,2024,Family4,404960
+Washington,WA,2024,Family4,349397
+West Virginia,WV,2024,Family4,71215
+Wisconsin,WI,2024,Family4,235731
+Wyoming,WY,2024,Family4,24359
+Puerto Rico,PR,2024,Family4,108674
+Alabama,AL,2024,Nonfamily_Female_alone,354379
+Alaska,AK,2024,Nonfamily_Female_alone,36424
+Arizona,AZ,2024,Nonfamily_Female_alone,445348
+Arkansas,AR,2024,Nonfamily_Female_alone,195319
+California,CA,2024,Nonfamily_Female_alone,1868777
+Colorado,CO,2024,Nonfamily_Female_alone,355080
+Connecticut,CT,2024,Nonfamily_Female_alone,249593
+Delaware,DE,2024,Nonfamily_Female_alone,63275
+District of Columbia,DC,2024,Nonfamily_Female_alone,89713
+Florida,FL,2024,Nonfamily_Female_alone,1442811
+Georgia,GA,2024,Nonfamily_Female_alone,659639
+Hawaii,HI,2024,Nonfamily_Female_alone,64614
+Idaho,ID,2024,Nonfamily_Female_alone,96028
+Illinois,IL,2024,Nonfamily_Female_alone,891028
+Indiana,IN,2024,Nonfamily_Female_alone,442463
+Iowa,IA,2024,Nonfamily_Female_alone,220072
+Kansas,KS,2024,Nonfamily_Female_alone,184059
+Kentucky,KY,2024,Nonfamily_Female_alone,298833
+Louisiana,LA,2024,Nonfamily_Female_alone,324161
+Maine,ME,2024,Nonfamily_Female_alone,105777
+Maryland,MD,2024,Nonfamily_Female_alone,422251
+Massachusetts,MA,2024,Nonfamily_Female_alone,470191
+Michigan,MI,2024,Nonfamily_Female_alone,683393
+Minnesota,MN,2024,Nonfamily_Female_alone,385440
+Mississippi,MS,2024,Nonfamily_Female_alone,195223
+Missouri,MO,2024,Nonfamily_Female_alone,442127
+Montana,MT,2024,Nonfamily_Female_alone,72621
+Nebraska,NE,2024,Nonfamily_Female_alone,130923
+Nevada,NV,2024,Nonfamily_Female_alone,178452
+New Hampshire,NH,2024,Nonfamily_Female_alone,91166
+New Jersey,NJ,2024,Nonfamily_Female_alone,544109
+New Mexico,NM,2024,Nonfamily_Female_alone,143745
+New York,NY,2024,Nonfamily_Female_alone,1389721
+North Carolina,NC,2024,Nonfamily_Female_alone,746990
+North Dakota,ND,2024,Nonfamily_Female_alone,56502
+Ohio,OH,2024,Nonfamily_Female_alone,847176
+Oklahoma,OK,2024,Nonfamily_Female_alone,247940
+Oregon,OR,2024,Nonfamily_Female_alone,275583
+Pennsylvania,PA,2024,Nonfamily_Female_alone,917493
+Rhode Island,RI,2024,Nonfamily_Female_alone,81819
+South Carolina,SC,2024,Nonfamily_Female_alone,353650
+South Dakota,SD,2024,Nonfamily_Female_alone,57808
+Tennessee,TN,2024,Nonfamily_Female_alone,472517
+Texas,TX,2024,Nonfamily_Female_alone,1588811
+Utah,UT,2024,Nonfamily_Female_alone,123670
+Vermont,VT,2024,Nonfamily_Female_alone,48215
+Virginia,VA,2024,Nonfamily_Female_alone,551833
+Washington,WA,2024,Nonfamily_Female_alone,468918
+West Virginia,WV,2024,Nonfamily_Female_alone,122049
+Wisconsin,WI,2024,Nonfamily_Female_alone,413871
+Wyoming,WY,2024,Nonfamily_Female_alone,37647
+Puerto Rico,PR,2024,Nonfamily_Female_alone,237069
+Alabama,AL,2024,Nonfamily_Male_alone,268138
+Alaska,AK,2024,Nonfamily_Male_alone,40668
+Arizona,AZ,2024,Nonfamily_Male_alone,375095
+Arkansas,AR,2024,Nonfamily_Male_alone,174736
+California,CA,2024,Nonfamily_Male_alone,1529825
+Colorado,CO,2024,Nonfamily_Male_alone,354150
+Connecticut,CT,2024,Nonfamily_Male_alone,185400
+Delaware,DE,2024,Nonfamily_Male_alone,49706
+District of Columbia,DC,2024,Nonfamily_Male_alone,65212
+Florida,FL,2024,Nonfamily_Male_alone,1119662
+Georgia,GA,2024,Nonfamily_Male_alone,510805
+Hawaii,HI,2024,Nonfamily_Male_alone,63333
+Idaho,ID,2024,Nonfamily_Male_alone,84231
+Illinois,IL,2024,Nonfamily_Male_alone,727196
+Indiana,IN,2024,Nonfamily_Male_alone,385999
+Iowa,IA,2024,Nonfamily_Male_alone,192693
+Kansas,KS,2024,Nonfamily_Male_alone,177418
+Kentucky,KY,2024,Nonfamily_Male_alone,255784
+Louisiana,LA,2024,Nonfamily_Male_alone,263213
+Maine,ME,2024,Nonfamily_Male_alone,82776
+Maryland,MD,2024,Nonfamily_Male_alone,287733
+Massachusetts,MA,2024,Nonfamily_Male_alone,350003
+Michigan,MI,2024,Nonfamily_Male_alone,602257
+Minnesota,MN,2024,Nonfamily_Male_alone,334604
+Mississippi,MS,2024,Nonfamily_Male_alone,160904
+Missouri,MO,2024,Nonfamily_Male_alone,353253
+Montana,MT,2024,Nonfamily_Male_alone,70402
+Nebraska,NE,2024,Nonfamily_Male_alone,120185
+Nevada,NV,2024,Nonfamily_Male_alone,172647
+New Hampshire,NH,2024,Nonfamily_Male_alone,72050
+New Jersey,NJ,2024,Nonfamily_Male_alone,385332
+New Mexico,NM,2024,Nonfamily_Male_alone,129194
+New York,NY,2024,Nonfamily_Male_alone,1075132
+North Carolina,NC,2024,Nonfamily_Male_alone,580629
+North Dakota,ND,2024,Nonfamily_Male_alone,62693
+Ohio,OH,2024,Nonfamily_Male_alone,725800
+Oklahoma,OK,2024,Nonfamily_Male_alone,225581
+Oregon,OR,2024,Nonfamily_Male_alone,226431
+Pennsylvania,PA,2024,Nonfamily_Male_alone,751134
+Rhode Island,RI,2024,Nonfamily_Male_alone,60193
+South Carolina,SC,2024,Nonfamily_Male_alone,277732
+South Dakota,SD,2024,Nonfamily_Male_alone,62099
+Tennessee,TN,2024,Nonfamily_Male_alone,388542
+Texas,TX,2024,Nonfamily_Male_alone,1425163
+Utah,UT,2024,Nonfamily_Male_alone,120936
+Vermont,VT,2024,Nonfamily_Male_alone,41636
+Virginia,VA,2024,Nonfamily_Male_alone,437451
+Washington,WA,2024,Nonfamily_Male_alone,426587
+West Virginia,WV,2024,Nonfamily_Male_alone,102871
+Wisconsin,WI,2024,Nonfamily_Male_alone,392022
+Wyoming,WY,2024,Nonfamily_Male_alone,38880
+Puerto Rico,PR,2024,Nonfamily_Male_alone,177876
