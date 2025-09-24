@@ -36,16 +36,16 @@ Screenshots and interactive analysis:
 Dashboard: ![Dashboard](visuals/dashboard.png)
 
 1. **Distribution of Affordability (Table)** – Household income groups vs CMS cost share.
-  [Afforability](visuals/affordability.png)
+  ![Afforability](visuals/affordability.png)
   
 2. **Seniors Income vs Medicare Costs (Line Chart)** – 2021 vs 2024 trend by state.
-  [Seniors](visuals/senior.png)
+  ![Seniors](visuals/senior.png)
    
 3. **Least Affordable States** – Bar + line chart of households facing the heaviest burden.
-  [Least](visuals/least.png)
+  ![Least](visuals/least.png)
      
 4. **Most Affordable States** – Bar + line chart of households with lowest burden.
-   [Most](visuals/most.png)
+   ![Most](visuals/most.png)
 
 ---
 
