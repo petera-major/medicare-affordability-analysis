@@ -33,7 +33,7 @@ This project demonstrates how data engineering + analytics + visualization can h
 ## Dashboards
 Screenshots and interactive analysis:  
 
-Dashboard: [Dashboard](visuals/dashboard.png)
+Dashboard: ![Dashboard](visuals/dashboard.png)
 
 1. **Distribution of Affordability (Table)** – Household income groups vs CMS cost share.
   [Afforability](visuals/affordability.png)
