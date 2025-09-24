@@ -8,15 +8,18 @@ The goal was to measure **affordability** for different household groups (senior
 ---
 
 ## Key Findings
-- Income vs. Healthcare Costs: States like DC and Connecticut showed ~15% income growth for seniors since 2021, making Medicare relatively more affordable compared to national
-  averages.
-- Low Income Growth States: States such as Wisconsin and New Mexico only saw ~2% income growth, meaning healthcare takes up a larger share of household budgets.
-- Top 5 Most Affordable States: DC, Connecticut, Massachusetts, Maryland, and New Jersey stood out as the most affordable, where income growth significantly outpaced healthcare
-  cost growth.
-- Bottom 5 Least Affordable States: Wisconsin, New Mexico, Mississippi, Arkansas, and West Virginia emerged as the least affordable, with stagnant or minimal income growth
-  widening the cost burden on households.
-- Population Segment Impact: Seniors (65+) and single-parent households were the most vulnerable groups, where slow income growth made costs harder to manage.
-- Trend Insight: Strong income growth widens the affordability gap positively (income outpaces costs), while slow growth tightens the gap (cost burden rises).
+- **Income vs. Healthcare Costs: States like DC and Connecticut showed ~15% income growth for seniors since 2021, making Medicare relatively more affordable compared to national
+  averages.**
+- **Low Income Growth States: States such as Wisconsin and New Mexico only saw ~2% income growth, meaning healthcare takes up a larger share of household budgets.**
+- **Top 5 Most Affordable States: DC, Connecticut, Massachusetts, Maryland, and New Jersey stood out as the most affordable, where income growth significantly outpaced healthcare
+  cost growth.**
+- **Bottom 5 Least Affordable States: Wisconsin, New Mexico, Mississippi, Arkansas, and West Virginia emerged as the least affordable, with stagnant or minimal income growth
+  widening the cost burden on households.**
+- **Population Segment Impact: Seniors (65+) and single-parent households were the most vulnerable groups, where slow income growth made costs harder to manage.**
+- **Trend Insight: Strong income growth widens the affordability gap positively (income outpaces costs), while slow growth tightens the gap (cost burden rises).**
+
+- > *“In least affordable states, flat income growth means even small rises in Medicare costs hit families hard.”*
+
 ---
 
 ## Tech Stack
