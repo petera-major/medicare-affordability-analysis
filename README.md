@@ -7,12 +7,16 @@ The goal was to measure **affordability** for different household groups (senior
 
 ---
 
-## Key Insights
-- In **D.C.**, male-headed households with children face the *highest burden* (over **340% of median income** goes toward Medicare costs).  
-- Seniors’ incomes grew ~15% in states like **Connecticut**, making Medicare relatively more affordable.  
-- States like **Wisconsin** and **New Mexico** saw income growth of only ~2%, so Medicare costs take a larger share of seniors’ resources.  
-- **Alaska, Vermont, and North Dakota** are among the most affordable states for households, while **California, Florida, and New York** show higher burdens across groups.  
-
+## Key Findings
+- Income vs. Healthcare Costs: States like DC and Connecticut showed ~15% income growth for seniors since 2021, making Medicare relatively more affordable compared to national
+  averages.
+- Low Income Growth States: States such as Wisconsin and New Mexico only saw ~2% income growth, meaning healthcare takes up a larger share of household budgets.
+- Top 5 Most Affordable States: DC, Connecticut, Massachusetts, Maryland, and New Jersey stood out as the most affordable, where income growth significantly outpaced healthcare
+  cost growth.
+- Bottom 5 Least Affordable States: Wisconsin, New Mexico, Mississippi, Arkansas, and West Virginia emerged as the least affordable, with stagnant or minimal income growth
+  widening the cost burden on households.
+- Population Segment Impact: Seniors (65+) and single-parent households were the most vulnerable groups, where slow income growth made costs harder to manage.
+- Trend Insight: Strong income growth widens the affordability gap positively (income outpaces costs), while slow growth tightens the gap (cost burden rises).
 ---
 
 ## Tech Stack
