@@ -6,6 +6,7 @@ This project analyzes how Medicare costs compare to household incomes across U.S
 The goal was to measure **affordability** for different household groups (seniors, single parents, families of four, etc.) and visualize disparities across states.
 
 ---
+## This analysis reveals how state-level income growth directly impacts Medicare affordability, with clear winners and losers across the U.S.
 
 ## Key Findings
 - **Income vs. Healthcare Costs: States like DC and Connecticut showed ~15% income growth for seniors since 2021, making Medicare relatively more affordable compared to national
