@@ -22,6 +22,9 @@ The goal was to measure **affordability** for different household groups (senior
 - > *“In least affordable states, flat income growth means even small rises in Medicare costs hit families hard.”*
 
 ---
+## Implications
+- **Policymakers in low-income growth states may need to increase subsidies or expand benefits, since stagnant wages make Medicare less affordable**
+---
 
 ## Tech Stack
 - **SQL**: Designed schema, loaded CMS & Census datasets, built affordability index queries.  
